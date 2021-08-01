@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\REPOS\\DesignPattern\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj": {}
+    "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "E:\\REPOS\\DesignPattern\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj": {
+    "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOS\\DesignPattern\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "E:\\REPOS\\DesignPattern\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
+        "projectPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\imrra\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOS\\DesignPattern\\LearnCSharpDesignPatterns\\Singleton\\obj\\",
+        "outputPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imrra\\AppData\\Roaming\\NuGet\\NuGet.Config",

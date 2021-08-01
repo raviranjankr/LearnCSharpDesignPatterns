@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\imrra\\source\\repos\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj": {}
+    "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\imrra\\source\\repos\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj": {
+    "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\imrra\\source\\repos\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj",
+        "projectUniqueName": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj",
         "projectName": "LearnCSharpDesignPatterns",
-        "projectPath": "C:\\Users\\imrra\\source\\repos\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj",
+        "projectPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns.csproj",
         "packagesPath": "C:\\Users\\imrra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\imrra\\source\\repos\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\obj\\",
+        "outputPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\LearnCSharpDesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imrra\\AppData\\Roaming\\NuGet\\NuGet.Config",
