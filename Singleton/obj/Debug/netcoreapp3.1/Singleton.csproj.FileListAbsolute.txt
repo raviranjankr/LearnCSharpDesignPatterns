@@ -1,0 +1,13 @@
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
