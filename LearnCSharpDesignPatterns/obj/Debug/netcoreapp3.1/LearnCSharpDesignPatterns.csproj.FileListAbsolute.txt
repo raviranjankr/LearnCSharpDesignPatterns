@@ -1,0 +1,13 @@
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.exe
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.deps.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.runtimeconfig.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.runtimeconfig.dev.json
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.dll
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\bin\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.pdb
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.AssemblyInfo.cs
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.dll
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.pdb
+C:\Users\imrra\source\repos\LearnCSharpDesignPatterns\LearnCSharpDesignPatterns\obj\Debug\netcoreapp3.1\LearnCSharpDesignPatterns.genruntimeconfig.cache
