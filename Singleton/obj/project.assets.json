@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\imrra\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "D:\\REPOS\\GITHUB\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
-      "packagesPath": "C:\\Users\\imrra\\.nuget\\packages\\",
-      "outputPath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\obj\\",
+      "projectPath": "D:\\REPOS\\GITHUB\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\REPOS\\GITHUB\\LearnCSharpDesignPatterns\\Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\imrra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

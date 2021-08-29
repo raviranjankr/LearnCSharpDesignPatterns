@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{15B05B48-F289-496B-A014-6DA1EAA494ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "C:\Users\HP\Downloads\LearnCSharpDesignPatterns-master\LearnCSharpDesignPatterns-master\Singleton\Singleton.csproj", "{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmKclHkATzZ0uUjV7zPVJ8HarAVchkJkRbXUlitrI6rg9ZBvG8B5OeDVEXS39BDyWKwOV89QqGjby+wZOiPQBw==",
+  "dgSpecHash": "r/dMCZ9RUZw6GZyOMRwTt+ItZYiXnpFSAyIN19rbLrULOSSUJWMGLPSKdoVNhTLSBdtYbbv1JBsYCVPCpnCW8g==",
   "success": true,
-  "projectFilePath": "E:\\REPOS\\GITHUB\\raviranjankr\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
+  "projectFilePath": "D:\\REPOS\\GITHUB\\LearnCSharpDesignPatterns\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
