@@ -18,6 +18,7 @@ namespace AbstractFactory
         }
     }
 
+    // This class belong to a single variant which is Magazine. The factory guarantees that resulting products are compatible.
     public class MagazineFactory : IBookFactory
     {
         public MagazineFactory() { }

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Proxy
 {
+    // The is Service, A class that provides some useful business logic.
     class LaptopWithLogin
     {
         private ILaptop laptop;

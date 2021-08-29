@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace Adapter
 {
 
-    // This is 'Adaptee' class
+    // This is 'Adaptee' class, contains some useful behavior.
     class ThirdParty_Employees
     {
         public List<string> Get_EmployeeList()
@@ -17,12 +17,12 @@ namespace Adapter
         }
     }
 
-    //This is 'ITarget' interface
+    //This is 'ITarget' interface, defines the domain-specific interface used by the client code.
     interface ITarget
     {
         List<string> Get_Employees();
     }
-    // This is 'Adapter' class
+    // This is 'Adapter' class, makes the Adaptee's interface compatible with the ITarget interface.
     class EmployeeAdapter : ThirdParty_Employees, ITarget
     {
         public List<string> Get_Employees()

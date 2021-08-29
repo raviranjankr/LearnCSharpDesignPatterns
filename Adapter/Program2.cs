@@ -46,14 +46,14 @@ namespace Adapter
     }
     class TruckAdapter : ICountNofWheels
     {
-        private EicherTruck _truck;
+        private EicherTruck Truck;
         public TruckAdapter(EicherTruck truck)
         {
-            this._truck = truck;
+            this.Truck = truck;
         }        
         public string TotalNoOfWheels
         {
-            get { return _truck.NoOfWheels; }
+            get { return Truck.NoOfWheels; }
         }
     }
     class Program2

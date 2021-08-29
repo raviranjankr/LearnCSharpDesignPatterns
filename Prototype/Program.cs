@@ -53,11 +53,11 @@ namespace Prototype
 
             // Display values of all three object
             Console.WriteLine("Original values of");
-            Console.WriteLine("   employee instance values: ");
+            Console.WriteLine("employee instance values: ");
             DisplayValues(employee);
-            Console.WriteLine("   employee_s instance values:");
+            Console.WriteLine("employee_s instance values:");
             DisplayValues(employee_s);
-            Console.WriteLine("   employee_d instance values:");
+            Console.WriteLine("employee_d instance values:");
             DisplayValues(employee_d);
 
 

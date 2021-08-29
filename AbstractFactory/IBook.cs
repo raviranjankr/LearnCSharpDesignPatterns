@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AbstractFactory
 {
+    // All variants of the product must implement this interface.
     public interface IBook
     {
         string Author { get; set; }
