@@ -19,15 +19,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{1FDE3C07-E439-4A64-9B6E-1F48122ABB67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{9A39A947-4E9A-48FA-A930-3D867EF6565C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{9A39A947-4E9A-48FA-A930-3D867EF6565C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{A954AA0A-DEFE-4D09-9AC9-1071BE424E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{A954AA0A-DEFE-4D09-9AC9-1071BE424E4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{D162A4C6-24DD-4BBF-8445-F9776EB34462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyweight.csproj", "{D162A4C6-24DD-4BBF-8445-F9776EB34462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{15B05B48-F289-496B-A014-6DA1EAA494ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{15B05B48-F289-496B-A014-6DA1EAA494ED}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainofResponsibility", "ChainofResponsibility\ChainofResponsibility.csproj", "{0488C3E4-F27D-4C40-BB55-8BCDE146A5DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Command", "Command\Command.csproj", "{B47BC744-AEDE-4E42-9C11-86F9E64F8909}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{299D5746-0FC0-42AC-9F17-C86557AFC913}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mediator", "Mediator\Mediator.csproj", "{D5CDA6F4-DF2F-4B7E-BBB9-A1209DAE98CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{C46B3ACB-9045-4B77-8F42-0D8086F8BBB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +97,26 @@ Global
 		{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CC7AD0-04B5-455A-84FE-320A06D88BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0488C3E4-F27D-4C40-BB55-8BCDE146A5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0488C3E4-F27D-4C40-BB55-8BCDE146A5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0488C3E4-F27D-4C40-BB55-8BCDE146A5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0488C3E4-F27D-4C40-BB55-8BCDE146A5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47BC744-AEDE-4E42-9C11-86F9E64F8909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47BC744-AEDE-4E42-9C11-86F9E64F8909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47BC744-AEDE-4E42-9C11-86F9E64F8909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47BC744-AEDE-4E42-9C11-86F9E64F8909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299D5746-0FC0-42AC-9F17-C86557AFC913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299D5746-0FC0-42AC-9F17-C86557AFC913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299D5746-0FC0-42AC-9F17-C86557AFC913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299D5746-0FC0-42AC-9F17-C86557AFC913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CDA6F4-DF2F-4B7E-BBB9-A1209DAE98CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CDA6F4-DF2F-4B7E-BBB9-A1209DAE98CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CDA6F4-DF2F-4B7E-BBB9-A1209DAE98CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CDA6F4-DF2F-4B7E-BBB9-A1209DAE98CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46B3ACB-9045-4B77-8F42-0D8086F8BBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46B3ACB-9045-4B77-8F42-0D8086F8BBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46B3ACB-9045-4B77-8F42-0D8086F8BBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46B3ACB-9045-4B77-8F42-0D8086F8BBB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
