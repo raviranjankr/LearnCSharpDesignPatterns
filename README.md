@@ -69,11 +69,11 @@ inheritance hierarchies, and establish key relationships among them. Your design
 
 # Resources
 I've written these code in my free time during my studies. Following are the resources I've gone through while understanding concepts 
-<li>
-<ul><a href="https://refactoring.guru/design-patterns">refactoring.guru/design-patterns</a></ul>
-<ul><a href="https://en.wikipedia.org/wiki/Design_Patterns">en.wikipedia.org/wiki/Design_Patterns</a><ul>
-<ul>Head First Design Patterns: A Brain-Friendly Guide</ul>
-</li>
+<ul>
+<li><a href="https://refactoring.guru/design-patterns">refactoring.guru/design-patterns</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Design_Patterns">en.wikipedia.org/wiki/Design_Patterns</a></li>
+<li>Head First Design Patterns: A Brain-Friendly Guide</li>
+</ul>
 
 
 
