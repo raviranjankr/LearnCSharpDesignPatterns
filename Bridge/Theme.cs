@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Bridge
 {    
+    // Different Theme classes implementing ITheme interface. 
     class DarkTheme : ITheme
     {
         public string GetColor()

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Observer
 {
+     // Blog Post seekers that need to be notified for a Blog posting
     public class BlogPostSeeker : IObserver<BlogPost>
     {
         public string Name { get; private set; }

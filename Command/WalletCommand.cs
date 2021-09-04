@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Command
 {
-    public class WalletCommand
+    // Inherting ICommand Interface and implement the command Call(), Undo()
+    public class WalletCommand :ICommand
     {
         private Wallet wallet;
 

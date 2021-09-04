@@ -7,6 +7,7 @@ namespace Flyweight
     public class GaramChai
     {
     }
+    // Acts as a factory and saves the chai
     public class ChaiMaker
     {
         private Dictionary<string, GaramChai> dTeaAvailable = new Dictionary<string, GaramChai>();

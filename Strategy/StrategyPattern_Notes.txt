@@ -1,0 +1,15 @@
+﻿Wikipedia says =>
+
+The strategy pattern (also known as the policy pattern) is a behavioural software design pattern that enables an algorithm's behavior to be selected at runtime.
+Real World Example => 
+
+We will try to implement a simple Shopping Cart where we have two payment strategies – using Credit Card or using PayPal.
+
+Notes => 
+
+* You can isolate the implementation details of an algorithm from the code that uses it.
+* Strategy pattern is useful when we have multiple algorithms for specific task and we want our application to be flexible to chose any of the algorithm at runtime for specific task.
+
+
+
+

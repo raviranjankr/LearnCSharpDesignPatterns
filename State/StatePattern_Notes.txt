@@ -1,0 +1,17 @@
+﻿Wikipedia says =>
+
+The state pattern is a behavioral software design pattern that implements a state machine in an object-oriented way. With the state pattern, a state machine is implemented by implementing each individual state as a derived class of the state pattern interface, and implementing state transitions by invoking methods defined by the pattern's superclass. The state pattern can be interpreted as a strategy pattern which is able to switch the current strategy through invocations of methods defined in the pattern's interface.
+
+Real World Example => 
+
+Suppose we want to implement a TV Remote with a simple button to perform action. If the State is ON, it will turn on the TV and if state is OFF, it will turn off the TV.
+
+Notes => 
+
+* The benefits of using State pattern to implement polymorphic behavior is clearly visible.
+* Organize the code related to particular states into separate classes.
+* Simplify the code of the context by eliminating bulky state machine conditionals.
+
+
+
+

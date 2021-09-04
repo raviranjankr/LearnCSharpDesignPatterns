@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Flyweight
 {
+    // ChaiStall which takes orders and serves them
     public class ChaiStall
     {
         private Dictionary<int, GaramChai> mOrders = new Dictionary<int, GaramChai>();

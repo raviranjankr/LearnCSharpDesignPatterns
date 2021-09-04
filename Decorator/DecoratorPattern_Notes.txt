@@ -1,0 +1,20 @@
+﻿Wikipedia says =>
+
+The decorator pattern is a design pattern that allows behavior to be added to an individual object, either statically or dynamically, without affecting the behavior of other objects from the same class. The decorator pattern is often useful for adhering to the Single Responsibility Principle, as it allows functionality to be divided between classes with unique areas of concern.
+
+
+Real World Example => 
+
+Suppose, You are going to buy gift for someone, while purchasing gift shopkeeper ask you for different options. Now it is depend upon you what to choose or what to leave. For each purposes there is a fix price is mentioned. 
+
+
+Advantages => 
+
+* You can extend an object’s behavior without making a new subclass.
+* You can combine several behaviors by wrapping an object into multiple decorators.
+
+
+Disadvantage => 
+
+* It’s hard to implement a decorator in such a way that its behavior doesn’t depend on the order in the decorators stack.
+

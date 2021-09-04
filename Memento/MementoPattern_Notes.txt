@@ -1,0 +1,16 @@
+﻿Wikipedia says =>
+
+The memento pattern is a software design pattern that provides the ability to restore an object to its previous state (undo via rollback).
+
+Real World Example => 
+
+Let us assume, We have a bank account that we transfer money to someone from it. If the account has not required balance then the transfer must be rolledback without changing the account state.
+
+Notes => 
+
+* The internal state of an object should be saved externally so that the object can be restored to this state later.
+* Using Memento design pattern it can be easy to play object as saving its internal state to a (memento) object and restoring to a previous state from a (memento) object.
+
+
+
+

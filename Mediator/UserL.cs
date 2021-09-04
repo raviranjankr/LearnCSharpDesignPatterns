@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Mediator
 {
+    // UserL is concrete User classes that can be used by client system.
     public class UserL : User
     {
         public UserL(IChatRoomMediator med, String name):base(med,name)

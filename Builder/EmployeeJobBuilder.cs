@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Builder
 {
+    // Class that contain field related to employee job only 
     public class EmployeeJobBuilder : EmployeeBuilder
     {
         public EmployeeJobBuilder(Employee employee)

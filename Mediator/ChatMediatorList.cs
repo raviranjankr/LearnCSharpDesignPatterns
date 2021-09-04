@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Mediator
 {
+    // ChatMediatorList is concrete mediator class, it will have a list of users in the group and provide logic for the communication between the users.
     public class ChatMediatorList : IChatRoomMediator
     {
         private List<User> users;

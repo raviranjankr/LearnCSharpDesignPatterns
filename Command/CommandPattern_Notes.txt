@@ -1,0 +1,20 @@
+﻿Wikipedia says =>
+
+In object-oriented programming, the command pattern is a behavioral design pattern in which an object is used to encapsulate all information needed to perform an action or trigger an event at a later time. This information includes the method name, the object that owns the method and values for the method parameters.
+
+
+Real World Example => 
+
+Let’s assume we are using a digital wallet where we put money in the wallet and take back from wallet as well. After every command we can see the current balance. 
+
+Advantages => 
+
+* Requests for creation and the ultimate execution are decoupled. Clients may not know how an invoker is performing the operations.
+* New commands can be added without affecting the existing system.
+* Most importantly, you can support the much-needed undo/redo operations
+
+
+Disadvantage => 
+
+* To support more commands, you need to create more classes. So, maintenance can be difficult as time goes on. 
+

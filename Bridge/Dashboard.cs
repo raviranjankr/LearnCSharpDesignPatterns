@@ -4,6 +4,8 @@ using System.Text;
 
 namespace Bridge
 {
+    // Different Dashbaord class implementing IWebDashboard.
+    // Theme of Admin Dashboard and UserDashboard can be same or different as per defined theme. 
     class AdminDashboard : IWebDashboard
     {
         protected ITheme theme;

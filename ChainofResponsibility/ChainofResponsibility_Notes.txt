@@ -1,0 +1,27 @@
+﻿Wikipedia says =>
+
+The chain-of-responsibility pattern consisting of a source of command objects and a series of processing objects. Each processing object contains logic that defines the types of command objects that it can handle; the rest are passed to the next processing object in the chain.
+
+The chain-of-responsibility design pattern solves problems like:
+
+* Coupling the sender of a request to its receiver should be avoided.
+* It should be possible that more than one receiver can handle a request.
+
+Chain of responsibility pattern is mainly used to achieve loose coupling in software design where a request from client is passed to a chain of objects to process them. Then the object in the chain will decide themselves who will be processing the request and whether the request is required to be sent to the next object in the chain or not.
+
+Real World Example => 
+
+We all know about ATM and the way it disburse money to us. The user enters the amount to be dispensed and the machine dispense amount in terms of defined currency bills such as 50, 20, 10 etc. If the user enters an amount that is not multiples of 10, it throws error. We will use Chain of Responsibility pattern to implement this solution. Note that we can implement this solution easily in a single program itself but then the complexity will increase and the solution will be tightly coupled. So we will create a chain of dispense systems to dispense bills of 50, 20 and 10.
+
+Advantages => 
+
+* You have more than one object to handle a request. (Notice that if a handler cannot handle the whole request, it may forward the responsibility to the next handler in the chain.)
+* A handler does not need to know how the next handler in the chain will
+handle the request. It can focus on its own handling mechanism only.
+
+
+Disadvantage => 
+
+* Some requests may end up unhandled.
+* Debugging becomes tricky with this kind of design.
+

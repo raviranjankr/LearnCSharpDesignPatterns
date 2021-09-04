@@ -1,0 +1,20 @@
+﻿Wikipedia says =>
+
+The builder pattern is an object creation software design pattern with the intentions of finding a solution to the telescoping constructor anti-pattern.
+
+The Builder design pattern solves problems like:
+
+* How can a class (the same construction process) create different representations of a complex object?
+* How can a class that includes creating a complex object be simplified?
+
+Real World Example => 
+
+Imaging you are assigned task to display basic details of employee, his/her address and working profile details. In such cases builder pattern comes to the rescue. With the help of builder pattern, you can invoke all different object at once. 
+
+Advantages => 
+
+You direct the builder to build the objects step-by-step, and you promote encapsulation by hiding the details of the complex construction process. Using this pattern, the same construction process can produce different products. You can also vary the internal representation of products.
+
+Disadvantage => 
+
+It is not suitable if you want to deal with mutable objects (which can be modified later).

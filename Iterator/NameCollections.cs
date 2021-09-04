@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Iterator
 {
+    // These classes store the current traversal position at all times.
     class NameCollections : IContainer
     {        
         public IIterator getIterator()

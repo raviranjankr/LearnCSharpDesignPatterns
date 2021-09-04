@@ -1,0 +1,17 @@
+﻿Wikipedia says =>
+
+The iterator pattern is a design pattern in which an iterator is used to traverse a container and access the container's elements. The iterator pattern decouples algorithms from containers; in some cases, algorithms are necessarily container-specific and thus cannot be decoupled.
+
+Real World Example => 
+
+Suppose you have collection of items and you want to traversing through a collection. 
+Note :  The pattern is very common in C# code. Many frameworks and libraries use it to provide a standard way for traversing their collections.
+
+Notes => 
+
+* You can implement new types of collections and iterators and pass them to existing code without breaking anything.
+* You can iterate over the same collection in parallel because each iterator object contains its own iteration state.
+
+
+
+

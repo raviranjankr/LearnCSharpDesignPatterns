@@ -1,0 +1,15 @@
+﻿Wikipedia says =>
+
+Flyweight is a software design pattern. A flyweight is an object that minimizes memory use by sharing as much data as possible with other similar objects; it is a way to use objects in large numbers when a simple repeated representation would use an unacceptable amount of memory.
+
+Real World Example => 
+
+If you ever visited to tea stall you might have noticed the way they are cooking tea and serving tea. They often make more than one cup that you demanded and save the rest for any other customer so to save the resources. Flyweight pattern is all about that i.e. sharing.
+
+Advantages => 
+
+* You can save lots of RAM, assuming your program has tons of similar objects.
+
+
+
+

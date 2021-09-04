@@ -4,8 +4,10 @@ using System.Text;
 
 namespace Mediator
 {
+    // Users can send and receive messages, so we can have User interface or abstract class. 
     public abstract class User
     {
+        // User has a reference to the mediator object, it’s required for the communication between different users.
         protected IChatRoomMediator mediator;
         protected String name;
 

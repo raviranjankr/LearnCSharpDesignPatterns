@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Bridge
 { 
+
     interface IWebDashboard
     {
         string GetContent();

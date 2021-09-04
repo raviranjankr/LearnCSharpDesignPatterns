@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Builder
 {
+    // Class that contain field of employee address only. 
     public class EmployeeAddressBuilder : EmployeeBuilder
     {
         // might not work with a value type!

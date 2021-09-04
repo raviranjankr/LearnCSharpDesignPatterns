@@ -4,6 +4,7 @@ using System.Text;
 
 namespace AbstractFactory
 {
+
     public class Cartoon : IBook
     {
         public string Author { get; set; }
@@ -19,6 +20,7 @@ namespace AbstractFactory
     }
 
     // This class belong to a single variant which is Cartoon. The factory guarantees that resulting products are compatible.
+    // Our factory classes will implement this interface(Abstract Factory Interface)
     public class CartoonFactory : IBookFactory
     {
         public CartoonFactory() { }

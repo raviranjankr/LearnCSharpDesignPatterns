@@ -1,5 +1,6 @@
 ﻿namespace Factory
 {
+    // DBConFactory declares the factory method that is supposed to return different connection string.    
     static class DBConFactory
     {
         public static IDBConString GetDbConStringInstance(int Id)

@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Observer
 {
+   
     public class BlogPost
     {
         public string Title { get; private set; }

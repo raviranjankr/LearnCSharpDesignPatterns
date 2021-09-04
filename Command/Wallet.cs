@@ -4,6 +4,8 @@ using System.Text;
 
 namespace Command
 {
+    // The Wallet classes act as Receiver that contain some important business logic.They know how to perform all kinds of operations,
+    // associated with carrying out arequest. In fact, any class may serve as a Receiver.
     public class Wallet
     {
         private int balance;

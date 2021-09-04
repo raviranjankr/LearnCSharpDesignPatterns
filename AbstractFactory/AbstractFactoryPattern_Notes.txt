@@ -1,0 +1,8 @@
+﻿Wikipedia says =>
+
+The abstract factory pattern provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes
+
+
+Real World Example => 
+
+Different types of authors produces different kinds of writing — which are likely to be published by dramatically different publishers. This is a great use of the abstract factory method. To simplify our comparison, we’ll modernize the publisher types a bit and use a blog for publishing poems and a scientific journal for publishing research papers. If we have a poem like The Raven ready to be published, we need an appropriate type of publisher for it, such as a Blog. Similarly, a scientific paper, like On the Origin of Species, might require a scientific journal for publication.

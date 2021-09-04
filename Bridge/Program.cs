@@ -17,6 +17,12 @@ namespace Bridge
             Console.WriteLine(userDashboard.GetContent()); 
 
             Console.ReadLine();
+
+
+            /*Output : 
+             * Color of Admin Dashboard : Dark Black
+               Color of User Dasboard : White Smoke
+             */
         }
     }
 }
