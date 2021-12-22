@@ -1,0 +1,11 @@
+﻿Purpose => 
+
+allows objects with incompatible interfaces to collaborate.
+
+Wikipedia Says => 
+
+The adapter pattern is a software design pattern (also known as wrapper) that allows the interface of an existing class to be used as another interface. It is often used to make existing classes work with others without modifying their source code.
+
+Real World Example => 
+
+With the help of Adapter design pattern you can deal with different interfaces with similar behavior (which usually means classes with similar behavior but with different methods). An example of it would be a class to connect to a Samsung TV and another one to connect to a Sony TV

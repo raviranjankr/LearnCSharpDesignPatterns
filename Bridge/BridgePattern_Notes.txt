@@ -1,4 +1,8 @@
-﻿Wikipedia says =>
+﻿Purpose =>
+
+lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+
+Wikipedia says =>
 
 The bridge pattern is a design pattern used in software engineering that is meant to "decouple an abstraction from its implementation so that the two can vary independently"
 

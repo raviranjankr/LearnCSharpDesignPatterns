@@ -1,4 +1,8 @@
-﻿Wikipedia says =>
+﻿Purpose => 
+
+lets you construct complex objects step by step. 
+
+Wikipedia says =>
 
 The builder pattern is an object creation software design pattern with the intentions of finding a solution to the telescoping constructor anti-pattern.
 

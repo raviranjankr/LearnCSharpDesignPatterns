@@ -1,4 +1,8 @@
-﻿Wikipedia says =>
+﻿Purpose => 
+
+provides a simplified interface to a library, a framework, or any other complex set of classes
+
+Wikipedia says =>
 
 A facade is an object that serves as a front-facing interface masking more complex underlying or structural code.
 
