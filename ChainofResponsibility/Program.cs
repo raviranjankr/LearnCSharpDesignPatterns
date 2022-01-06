@@ -10,11 +10,13 @@ namespace ChainofResponsibility
         {
             // initialize the chain
             this.disburseChain = new Disburse50();
+            IDisburseChain disburseChain50 = new Disburse50();
             IDisburseChain disburseChain20 = new Disburse20();
             IDisburseChain disburseChain10 = new Disburse10();
 
             // set the chain of responsibility
-            disburseChain.SetNextChain(disburseChain20);
+            disburseChain.SetNextChain(disburseChain50);
+            disburseChain50.SetNextChain(disburseChain20);
             disburseChain20.SetNextChain(disburseChain10);
         }
         static void Main(string[] args)
